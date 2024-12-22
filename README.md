@@ -59,22 +59,18 @@ I'm an innovative software developer with strong analytical skills and a proven 
 ### Real Time Embedded Engineering | Kamatech | 2024
 - **Environment:** C/C++, OpenCV
 - **Description:** Developed and implemented high-performance, low-level C/C++ code for real-time embedded multi-drone photogrammetry. Conducted extensive research on OpenCV, gaining a solid understanding of image processing fundamentals through self-study and debugging existing code. Created custom image processing features tailored to the project, enhancing flexibility and customization beyond standard OpenCV capabilities. Developed image processing features from concept to completion, including design documentation, implementation, testing, and branch management using Git. Demonstrated strong collaboration and communication skills through effective presentations and teamwork. Conducted rigorous testing with doctest and leveraged the CMake library for seamless project build management.
-- [Link to the Project Repository](URL)
 
 ### Attractive Demonstration Game - Mario
 - **Environment:** C++
 - **Description:** Implementation of design patterns like Observer and Decorator using the OpenCV library for image processing. Focused on improving code reusability, maintainability, and extensibility through object-oriented programming (OOP) principles.
-- [Link to the Project Repository](URL)
 
 ### Chinese Auction Management System
 - **Environment:** .Net Core, React, SQL Server
 - **Description:** Implemented PrimeReact library for advanced and innovative design. Worked with Entity Framework for data retrieval and updates from the database. Used AutoMapper for object mapping and integrated JWT for authentication and securing communication between the server and client. Focused on advanced user experience and high security for managing the system.
-- [Link to the Project Repository](URL)
 
 ### Beloved Snake Game
 - **Environment:** C
 - **Description:** Developed showcasing a deep understanding of pointers and dynamic allocations. Written in a clear and concise manner.
-- [Link to the Project Repository](URL)
 
 ## GitHub Stats
 
