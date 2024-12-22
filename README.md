@@ -72,10 +72,6 @@ I'm an innovative software developer with strong analytical skills and a proven 
 - **Environment:** C
 - **Description:** Developed showcasing a deep understanding of pointers and dynamic allocations. Written in a clear and concise manner.
 
-## GitHub Stats
-
-![NechamaRos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NechamaRos&show_icons=true&theme=radical)
-
 <!--
 **NechamaRos/NechamaRos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
